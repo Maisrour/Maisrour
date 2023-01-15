@@ -6,11 +6,25 @@ opinions, I deal with all understanding .
 </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mai-srour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mai srour" height="30" width="40" /></a>
-<a href="https://fb.com/mai.srour.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mâi srôur" height="30" width="40" /></a>
-<a href="https://twitter.com/mai__srour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mâi srôur" height="30" width="40" /></a>
-</p>
+<ul>
+ <li>
+  <a href="https://www.linkedin.com/in/mai-srour" target="_blank">
+   <img src="/linkedin.png" width="20" height="20">linkedin </a>
+ </li>
+ <li>
+  <a href="https://wa.me/01013553783" target="_blank">
+   <img src="/whatsapp.png" width="20" height="20" >whatsapp</a>
+ </li>
+ <li>
+  <a href="#">
+   <img src="/mobile.png" width="20" height="20" >
+   (+20) 1013553783</a>
+ </li>
+ <li>
+  <a href="https://www.facebook.com/mai.srour.1"  target="_blank">
+   <img src="/facebook.png" width="20" height="20" >facebook</a>
+ </li>
+ </ul>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
