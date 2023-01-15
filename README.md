@@ -11,20 +11,16 @@ opinions, I deal with all understanding .
 <ul>
  <li>
   <a href="https://www.linkedin.com/in/mai-srour" target="_blank">
-   <img src="/linkedin.png" width="20" height="20">linkedin </a>
  </li>
  <li>
   <a href="https://wa.me/01013553783" target="_blank">
-   <img src="/whatsapp.png" width="20" height="20" >whatsapp</a>
  </li>
  <li>
   <a href="#">
-   <img src="/mobile.png" width="20" height="20" >
    (+20) 1013553783</a>
  </li>
  <li>
   <a href="https://www.facebook.com/mai.srour.1"  target="_blank">
-   <img src="/facebook.png" width="20" height="20" >facebook</a>
  </li>
  </ul>
 
