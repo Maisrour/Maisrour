@@ -5,6 +5,8 @@ and internal frameworks, I love designs, I accept criticism and modification
 opinions, I deal with all understanding .
 </p>
 
+<img src="/developer.png" align="right" width="25%"/>
+
 <h3 align="left">Connect with me:</h3>
 <ul>
  <li>
