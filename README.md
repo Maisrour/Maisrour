@@ -10,18 +10,21 @@ opinions, I deal with all understanding .
 <h3 align="left">Connect with me:</h3>
 <ul>
  <li>
-  <a href="https://www.linkedin.com/in/mai-srour" target="_blank">
+  <a href="https://www.linkedin.com/in/mai-srour" target="_blank">linkedin</a>
  </li>
  <li>
-  <a href="https://wa.me/01013553783" target="_blank">
+  <a href="https://wa.me/01013553783" target="_blank">whatsapp</a>
  </li>
  <li>
   <a href="#">
    (+20) 1013553783</a>
  </li>
  <li>
-  <a href="https://www.facebook.com/mai.srour.1"  target="_blank">
+  <a href="https://www.facebook.com/mai.srour.1"  target="_blank">facebook</a>
  </li>
+  <li>
+  <a href="https://twitter.com/mai__srour  target="_blank"">twitter</a>
+  </li>   
  </ul>
 
 <h3 align="left">Languages and Tools:</h3>
