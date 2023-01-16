@@ -4,6 +4,10 @@
 </p>
 
 <img src="/developer.png" align="right" width="35%"/>
+<h3 align="left">Experience:</h3>
+<h4>front-end developer at pioneer company </h4>
+<p>I was responsible for programming and developing parts of the front-end interfaces of the ERP system, and I made modifications and added a set of forms, each form dedicated to a specific task, using htm ,css ,js ,bootstrap and vue.js
+ </p>
 
 <h3 align="left">Connect with me:</h3>
 <ul>
