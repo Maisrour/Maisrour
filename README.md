@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mai Srour</h1>
 <h3 align="center">A frontend developer from Egypt</h3>
-<p>I am a fresh graduate Front-End Developer. I have skills in implementing web apps
-and internal frameworks, I love designs, I accept criticism and modification
-opinions, I deal with all understanding .
+<p>I'm a front-end developer and fresh graduate of faculty of computer science (information system department) , I've a good experience in implementing websites, internal framework , with good understanding of system design , dealing with designers
 </p>
 
 <img src="/developer.png" align="right" width="35%"/>
