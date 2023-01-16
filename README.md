@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mai Srour</h1>
 <h3 align="center">A frontend developer from Egypt</h3>
-<p>I'm a front-end developer and fresh graduate of faculty of computer science (information system department) , I've a good experience in implementing websites, internal framework , with good understanding of system design , dealing with designers
-</p>
-
-<img src="/developer.png" align="right" width="35%"/>
+<p>I'm a front-end developer and fresh graduate of faculty of computer science (information system department) , I've a good experience in implementing websites, internal framework , with good understanding of system design , dealing with designers</p>
 <h3 align="left">Experience:</h3>
 <h4>front-end developer at pioneer company </h4>
 <p>I was responsible for programming and developing parts of the front-end interfaces of the ERP system, and I made modifications and added a set of forms, each form dedicated to a specific task, using htm ,css ,js ,bootstrap and vue.js
  </p>
-
+ <img src="/developer.png" align="right" width="30%"/>
 <h3 align="left">Connect with me:</h3>
 <ul>
  <li>
