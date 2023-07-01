@@ -23,7 +23,7 @@
   <a href="https://www.facebook.com/mai.srour.1"  target="_blank">facebook</a>
  </li>
   <li>
-  <a href="https://twitter.com/mai__srour  target="_blank"">twitter</a>
+  <a href="https://twitter.com/mai__srour"  target="_blank">twitter</a>
   </li>   
  </ul>
 
