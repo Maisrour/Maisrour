@@ -29,8 +29,8 @@
 
 ## Languages and Tools
 <p align="left"> 
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="html.png" alt="html" width="40" height="40"/> </a>
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="css.png" alt="css" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="html5.png" alt="html" width="40" height="40"/> </a>
+ <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="CSS3.png" alt="css" width="30" height="40"/> </a>
  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="javascript.png" alt="javascript" width="40" height="40"/> </a>
  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="bootstrap.png" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
